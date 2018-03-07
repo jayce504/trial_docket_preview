@@ -470,7 +470,7 @@
 	}
 
 	header p {
-		color: rgba(255, 255, 255, 0.5);
+		color: #6a0891;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -522,6 +522,7 @@
 	.email-input-field {
 		width: 350px;
 		padding-bottom: 25px;
+		line-height: 1.6;
 	}
 
 /* Icon */
@@ -633,7 +634,7 @@
 			}
 
 			form .message.success {
-				color: #1cb495;
+				color: #6a0891;
 			}
 
 				form .message.success:before {
